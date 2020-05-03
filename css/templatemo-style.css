@@ -118,7 +118,7 @@ body {
 }
 
 .tm-main-nav {
-	background-color: #993366;
+	background-color: rgb(90, 140, 231);
 	font-size: 1.4rem;
 }
 
@@ -160,7 +160,7 @@ body {
 
 .tm-button,
 .tm-button:focus {
-	background-color: #936;
+	background-color: rgb(90, 140, 231);
 	border: none;
 	border-radius: 0;
 	color: #fff;
@@ -171,7 +171,7 @@ body {
 
 .tm-button:hover,
 .tm-button.active {
-	background-color: #7B2852;
+	background-color: rgb(90, 140, 231);
 	color: #EAD53D;
 	text-decoration: none;
 }
@@ -183,7 +183,7 @@ body {
 }
 
 .tm-section-title {
-	color: #993366;
+	color: rgb(90, 140, 231);
 	font-weight: 300;
 	margin-top: 0;
 }
@@ -204,7 +204,7 @@ body {
 }
 	
 .tm-banner-inner {
-	border: 1px solid #993366;
+	border: 1px solid rgb(90, 140, 231);
 	height: 100%;
 	text-align: center;
 	display: -webkit-box;
@@ -227,7 +227,7 @@ body {
 }
 	
 .tm-banner-title { 
-	color: #993366;
+	color: rgb(90, 140, 231);
 	text-transform: uppercase;
 }
 
@@ -268,7 +268,7 @@ body {
 }
 
 .form-control:focus {
-	border-color: #993366;
+	border-color: rgb(90, 140, 231);
     box-shadow: inset 0 1px 1px rgba(153, 51, 102, .075),0 0 8px rgba(153, 51, 102, 0.45);
 }
 
@@ -386,7 +386,7 @@ body {
 	font-size: 68.5%;
 }
 
-figure.effect-bubba { background: #9e5406; }
+figure.effect-bubba { background: rgb(90, 140, 231); }
 
 figure.effect-bubba img {
 	opacity: 0.7;
